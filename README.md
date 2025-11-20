@@ -95,6 +95,10 @@ Inverting amplifier:
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-20 at 18 30 33_e24709ee](https://github.com/user-attachments/assets/e0e7c300-922b-4b30-bde5-1c0b6be9fbc0)
 
+![WhatsApp Image 2025-11-20 at 18 58 01_3cdac38e](https://github.com/user-attachments/assets/3a900dda-9e9c-42b8-82b9-aed3f6960f38)
+
+
+
 
 
 ---
@@ -107,7 +111,6 @@ Here, the output is fed back to the inverting terminal, and **no phase shift** o
 ACL = 1 + RF/R1
 
 
----
 
 ## CIRCUIT DIAGRAM
 
@@ -135,13 +138,16 @@ PROCEDURE:
 
 | S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
 |------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 |300mv |1ms | |3.3 |3.25 |
+| 2 | 400mv|1ms | | 4.4|4.1 |
+| 3 |500mv |1ms | | 5.5| 0.4|
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 18 55 56_1c024ca0](https://github.com/user-attachments/assets/7011014b-7aaa-4e0f-8f2d-ffd97ca414c6)
 
+
+![WhatsApp Image 2025-11-20 at 18 39 57_e8b16bc2](https://github.com/user-attachments/assets/858aa124-daf7-426b-83f3-153f6e94f4ac)
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -161,7 +167,11 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
-
+vo=(-Rf/R1)(v1-v2)volts
+v1=0.5
+v2=1
+Rf=100
+Ri=100
 
 ### **Differential Amplifier**
 
@@ -191,12 +201,13 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 | S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
 |------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 |0.5 | 1| |0.5 |0.48 |
+| 2 | 0.5| 1.5| | 1.0| 0.10|
+| 3 | 0.5| 2| |1.5 |0.10 |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 18 47 39_76a82f13](https://github.com/user-attachments/assets/da39aec0-1ed3-43ff-89f4-45b27fb83904)
 
 
 ---
@@ -230,13 +241,13 @@ PROCEDURE:
 
 | S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
 |------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 |1.5 | 2.0| |-2.7 |-2.80 |
+| 2 |2.0 | 3.0| |5.4 | 8.58|
+| 3 | 2.5| 3.5| |8.4 |5.52 |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![WhatsApp Image 2025-11-20 at 18 51 59_08b080cc](https://github.com/user-attachments/assets/0542f237-b257-4901-8884-1509e6ae6ddd)
 
 ---
 ## RESULT
