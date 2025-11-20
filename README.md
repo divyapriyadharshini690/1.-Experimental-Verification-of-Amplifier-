@@ -48,6 +48,7 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
+
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
@@ -66,7 +67,7 @@ Inverting amplifier:
 A = -Rf/R1
 Take  A = 10
 Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
+Choose R1 = 10kΩ, Rf=100kΩ
 
 PROCEDURE:
 Inverting amplifier:
@@ -92,6 +93,8 @@ Inverting amplifier:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 18 30 33_e24709ee](https://github.com/user-attachments/assets/e0e7c300-922b-4b30-bde5-1c0b6be9fbc0)
+
 
 
 ---
