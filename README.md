@@ -82,14 +82,7 @@ Inverting amplifier:
 
 
 ## TABULATION
-
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 |300 mv | 1| | -3|-3|
-| 2 |400 mv | 1| | -4|-4.08|
-| 3 |500 mv | 1| | -5|-5.28|		
- 
-
+![WhatsApp Image 2025-11-23 at 15 44 58_04571f3a](https://github.com/user-attachments/assets/894bc96d-f439-4ee9-9a4d-dd61a3d484d0)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -135,12 +128,9 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
+![WhatsApp Image 2025-11-23 at 15 45 22_b6588647](https://github.com/user-attachments/assets/2ee68025-ad80-40a4-af5a-3551ddbbd80f)
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 |300mv |1ms | |3.3 |3.25 |
-| 2 | 400mv|1ms | | 4.4|4.1 |
-| 3 |500mv |1ms | | 5.5| 0.4|
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -198,12 +188,8 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 
 ## TABULATION (Differential Amplifier)
+![WhatsApp Image 2025-11-23 at 15 45 48_8789c1ac](https://github.com/user-attachments/assets/6ba43ffa-3c19-4509-96bb-cd3231b0c978)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 |0.5 | 1| |0.5 |0.48 |
-| 2 | 0.5| 1.5| | 1.0| 0.10|
-| 3 | 0.5| 2| |1.5 |0.10 |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -238,12 +224,9 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
+![WhatsApp Image 2025-11-23 at 15 46 19_2dfa29d8](https://github.com/user-attachments/assets/91361bab-31e6-49a2-9526-775fb3667b69)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 |1.5 | 2.0| |-2.7 |-2.80 |
-| 2 |2.0 | 3.0| |5.4 | 8.58|
-| 3 | 2.5| 3.5| |8.4 |5.52 |
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
