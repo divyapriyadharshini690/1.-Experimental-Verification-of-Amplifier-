@@ -49,15 +49,14 @@ Acl = -RF/R1
 
 PIN DIAGRAM
 
-<img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
+![WhatsApp Image 2025-11-28 at 08 27 17_f0c86fd5](https://github.com/user-attachments/assets/6a46b4f7-1f8d-4b6f-9ba7-13e25d5baf56)
+
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+![WhatsApp Image 2025-11-28 at 08 27 17_8d0f13d5](https://github.com/user-attachments/assets/125e9c1b-2f73-41e0-9402-ef59f10c61ca)
 
 MODEL GRAPH 
-
-<img width="543" height="357" alt="image" src="https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1" />
-
+![WhatsApp Image 2025-11-28 at 08 27 18_fdfe2c98](https://github.com/user-attachments/assets/521c81aa-4672-4460-bb14-26b579c674f8)
 
 
 DESIGN:
@@ -107,14 +106,13 @@ ACL = 1 + RF/R1
 
 ## CIRCUIT DIAGRAM
 
+![WhatsApp Image 2025-11-28 at 08 29 56_bece1176](https://github.com/user-attachments/assets/030ecd11-f88a-446f-a1ac-16c66c21f7a6)
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
 
----
 
 ## MODEL GRAPH
+![WhatsApp Image 2025-11-28 at 08 30 26_9e307d7a](https://github.com/user-attachments/assets/afd78cc9-f0b4-4441-92cc-3f3dea674e57)
 
-<img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
 
 ---
 PROCEDURE:
@@ -149,12 +147,12 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+![WhatsApp Image 2025-11-28 at 08 32 53_8eb17415](https://github.com/user-attachments/assets/84f1124f-5521-4276-9ca5-cefbe673542b)
+
 
 ## MODEL GRAPH
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
+![WhatsApp Image 2025-11-28 at 08 33 14_98c35268](https://github.com/user-attachments/assets/1b068fd0-0250-405b-b5c9-696954d54dab)
 
----
 
 ## DESIGN
 vo=(-Rf/R1)(v1-v2)volts
@@ -209,7 +207,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-11-28 at 08 34 45_e54710b9](https://github.com/user-attachments/assets/7abe970a-9f59-4f2f-8e9d-7c5459126240)
+
 
 PROCEDURE:
 
