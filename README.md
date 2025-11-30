@@ -62,7 +62,8 @@ MODEL GRAPH
 DESIGN:
 
 Inverting amplifier:
-![WhatsApp Image 2025-11-30 at 21 33 56_6da65ad2](https://github.com/user-attachments/assets/e1edc3f5-8200-4112-b09c-0fae785c41df)
+
+![WhatsApp Image 2025-11-30 at 21 34 14_923819ff](https://github.com/user-attachments/assets/5e607ac7-7faa-45e0-bd6d-2bed192a7735)
 
 
 
@@ -100,7 +101,6 @@ Here, the output is fed back to the inverting terminal, and **no phase shift** o
 
 ACL = 1 + RF/R1
 
-![WhatsApp Image 2025-11-30 at 21 34 14_06acf064](https://github.com/user-attachments/assets/0c9821f3-a35d-48ec-b0ac-098a5a41e7a9)
 
 
 ## CIRCUIT DIAGRAM
@@ -154,7 +154,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 
 ## DESIGN
-![Uploading WhatsApp Image 2025-11-30 at 21.36.43_93347489.jpg…]()
+![WhatsApp Image 2025-11-30 at 21 33 56_44a2bf6b](https://github.com/user-attachments/assets/4c72d694-8e94-42d0-b41f-61cf911359e9)
 
 
 ### **Differential Amplifier**
@@ -164,7 +164,7 @@ AV = Vo/{V1 - V2} = -Rf/R1
 
 Take  A = 10 
 ⇒  Rf = 10R1   
-Choose  R1 = 1kOhm, Rf = 10kOhm
+Choose  R1 = 10kOhm, Rf = 100kOhm
 
 ---
 
